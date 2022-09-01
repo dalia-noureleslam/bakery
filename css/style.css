@@ -1,0 +1,265 @@
+
+body{font-family: 'Alegreya Sans', sans-serif;  }
+*{margin: 0px;
+   padding: 0px;}
+/* partion 1 */
+.nav{
+   
+    height: 600px;
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    overflow: auto;
+
+}
+.nav1{position: fixed;
+
+right: 0;
+}
+.navpic{width: 150px;
+   
+    margin: 15px 0px 0px 50px ;
+position: fixed;
+left: 0;}
+h6{
+    
+float: right;
+ padding: 3px;
+ margin: 15px;
+ color: beige;
+ font-weight:500;
+ font-size: 16px;
+}
+
+.set{width:20px;
+    height:20px;
+    }
+
+.n_set{background-color: white;
+    list-style: none;
+    position: fixed;
+    right: 0;
+    top: 200px;
+    border-radius: 5px;
+ }
+.n_set li{ margin: 10px;}
+/* partion2*/
+.child{
+color: #fff;
+margin: auto;
+text-align: center;
+margin-top:50px;
+padding: 30px ;
+}
+.child h2 {font-size: 60px;
+    font-weight: 800;
+    margin-top: 15px ;
+    font-family:'Times New Roman', Times, serif;
+   
+    }
+
+.child p {
+padding: 10px;
+margin: 30px 0px ;
+font-size: 18px;
+font-weight: 150px;
+color: rgb(218, 218, 218);}
+.btn{padding: 15px 20px;
+ border: none;
+  margin: 5px;
+color: white;
+border-radius: 10px;}
+
+.btn1{     background: #8e7754;
+    border: #8e7754;
+    border-style: solid;
+    border-width: .5px ; }
+.btn2{background-color: rgba(0, 0, 0,.1);
+border: white;
+border-style: solid;
+border-width: .5px ;}
+
+/* partion3 */
+   
+  
+   .aboutpic{
+       width: 40%;
+       height: 80%;
+       margin: 30px 50px ;
+       padding-left: 30px ;
+       padding-top: 20px;
+      float: left;
+           }
+           .clear-fix{clear: both;}
+           .details{
+      
+      text-align: center;
+      margin: 35px;
+      padding-top: 50px ;
+          }
+
+  
+
+     .ds{
+      margin-top: 30px;
+     
+      line-height: 2em;
+    }
+       
+        
+        .res{width: 15px;
+             height: 15px;
+            margin:0px  5px ;
+        }
+             ul{list-style: none;
+                text-align: left;
+                padding-top: 10px;}
+
+               
+                /* partion4 */
+
+
+
+
+    .locationpic{
+                 width: 40%;
+                 height: 75%; 
+                 margin-right: 50px;
+                 float: right;
+    }
+
+    .locdetails{
+        width:50% ;
+       
+        text-align: center;
+        float: left;
+        margin: 35px;
+      padding-top: 50px ;
+      line-height: 2em;
+
+
+         }
+         .clear-fix1{clear: both;}
+         .lo{font-size: large;}
+         .loc{
+             margin: 20px;
+             font-size:x-large;
+             font-weight: 900;
+         }
+
+         .container{text-align: center;}
+.item{
+    width: 33.333%;
+    float: left;
+    padding: 0px,30px;
+}
+.inner{
+padding: 20px;}
+.item p{
+          line-height:1.5em;}
+.item img{width: 100%;}
+
+.clear-fix{clear: both;}
+.baking{width: 90%;
+margin: auto;
+ text-align: center;
+margin-top: 50px;
+padding-top: 30px;}
+ .bake{margin: 20px;}
+
+ .information{ width: 100%;
+               height: 600px;
+   background-color:rgb(244, 237, 237);
+}
+   .infopic{
+    width: 35%;
+    height: 60%; 
+    float: right;
+    margin:30px;
+    
+}
+.infodetails{
+    width:50% ;
+       
+    text-align: center;
+    float: left;
+    margin: 35px;
+  padding-top: 50px ;
+  line-height: 2em;
+
+}
+.clear-fix2{clear: both;}
+ 
+ .final{
+     
+      background-color:#303030;
+    color: #969696;
+
+     margin: auto;}
+
+.part{text-align: left;}
+.infodetails h2{margin: 20px;
+   
+
+}
+
+.fin{
+width: 25%;
+height: 100%;
+float: left;
+line-height: 1.5em;
+
+}
+.clearfix3{clear: both;}
+
+
+    h4{color: white;
+    margin: 10px;}
+    
+         .fin li{margin: 10px;
+                  padding: 10px;
+                font-size: 20px;}
+                .line{
+                        width:90%;
+                        height: .5px;
+                        margin: auto;
+                        background-color: #1d1c1c;
+
+                }
+                
+                .fin1{ line-height: 2em;
+                       margin-top: 10px;
+                     }
+                       .fin2 li img {  
+                           width: 25px;
+                           height: 25px;
+                           margin:0px  5px ;
+                                    }
+
+                       .footer{
+                           
+                           background-color:#2a2a2a;
+                           color: #969696;
+                           text-align: center;
+                         
+                              }
+                              .footdiv{margin-right: 30px; 
+                              }
+                              .foot1ogo{width: 250px;
+                            
+                            }
+                    .footpic{ width: 30px;
+                              height: 30px;
+                            }
+                          .common{
+                             margin-top:15px;
+                             margin-bottom:10px ;
+                                 }
+                                 .pfoot{font-size: 14px;}
+
+         
+
+           
+         
+     
+    
